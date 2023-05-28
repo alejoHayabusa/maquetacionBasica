@@ -1,1 +1,1 @@
-# Maquetacion Básica de una página web echa con bootstrap
+# Maquetacion Básica de una página web hecha con bootstrap
